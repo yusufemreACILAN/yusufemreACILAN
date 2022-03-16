@@ -10,7 +10,7 @@ Html ve Css ile alakalı site geliştiriyorum. <br>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="25" height="25" />
 <br />
-<h3>Kişisel Hesaplarım:</h3>
+<h3>My Personal Accounts:</h3>
 <p align="left">
 <a href="https://www.instagram.com/yusufemreoffical_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/yusufemreACILAN" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
