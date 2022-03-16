@@ -1,6 +1,6 @@
-<h1 align="center">Herkese Merhaba , Ben Yusuf Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
+<h1 align="center">Hello I'm Yusuf Emre AÇILAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-Html ve Css ile alakalı site geliştiriyorum. <br>
+I am developing a Web Site with HTML and Css. <br>
 </p>
 
 ### 🛠 Software Languages:
@@ -8,7 +8,6 @@ Html ve Css ile alakalı site geliştiriyorum. <br>
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/GitHub/github.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="25" height="25" />
 <br />
 <h3>My Personal Accounts:</h3>
