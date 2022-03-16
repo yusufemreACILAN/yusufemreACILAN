@@ -17,7 +17,7 @@ I am developing a Web Site with HTML and Css. <br>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yusuf" alt="Yusuf" /> </p>
 
-<h3 align="center">GitHub İstatistiğim :</h3>
+<h3 align="center">My GitHub Statistics:</h3>
 <p align="center">
 <a href="https://github.com/yusufemreACILAN/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=yusufemreACILAN&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 <a href="https://github.com/yusufemreACILAN/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufemreACILAN&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
