@@ -23,5 +23,8 @@ I am Front-End Developer <br>
 <a href="https://github.com/yusufemreACILAN/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufemreACILAN&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
 
