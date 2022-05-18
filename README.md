@@ -17,6 +17,7 @@ I am Front-End Developer <br>
 <a href="https://www.instagram.com/yusufemreoffical_" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UC7tMsynKhxy1SGX0Gq_BGXw" target"blank_"><img src="https://img.shields.io/badge/YouTube%20-111111.svg?&style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://github.com/yusufemreACILAN" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.com/Shelbyy" target"blank_"><img src="https://img.shields.io/badge/Discord%20-111111.svg?&style=for-the-badge&logo=Discord&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yusuf" alt="Yusuf" /> </p>
 
